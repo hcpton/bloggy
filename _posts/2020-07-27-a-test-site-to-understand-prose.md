@@ -1,10 +1,8 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: A Test Site to Understand Prose
-splash: ''
-tags: ''
 ---
 ## A New Blog
 
